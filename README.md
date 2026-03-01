@@ -153,3 +153,7 @@ Truy cập: **http://localhost:8000**
 
 ---
 
+## Demo video:
+
+- https://drive.google.com/file/d/1kuSAtJIGTVt9tC1dZRTItlwdgBkbdzgk/view?usp=drive_link
+
